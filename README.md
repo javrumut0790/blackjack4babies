@@ -5,7 +5,8 @@ A blackjack game created using python and the pygame library, designed to get yo
 1) Click the download button for the blackjack4babies.zip file
 2) Extract the zip file into your downloads folder
 3) Ensure that python and the pygame library is installed on your system, if it is not, head over to the Python website to install the latest version, or you can install it from the Microsoft store.
-4) Play blackjack4babies.py
+4) Run the game through an interpreter or debugger like VS code.
+5) Play blackjack4babies.py
 
 # Minimum system requirements
 5 MB storage space
